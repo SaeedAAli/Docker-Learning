@@ -38,9 +38,11 @@ docker compose up --build
 ## Results
 
 
-## Demo Video
+## 🎬 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/0/0.jpg)](https://raw.githubusercontent.com/SaeedAAli/Docker-Learning/main/Docker%20Assignment/docker.mp4)
+![Docker assignment demo](https://raw.githubusercontent.com/SaeedAAli/Docker-Learning/refs/heads/main/Docker%20Assignment/ezgif.com-video-to-gif-converter(1).gif)
+
+
 
 
 
