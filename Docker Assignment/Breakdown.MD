@@ -38,10 +38,9 @@ docker compose up --build
 ## Results
 
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/SaeedAAli/Docker-Learning/main/Docker%20Assignment/docker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/0/0.jpg)](https://raw.githubusercontent.com/SaeedAAli/Docker-Learning/main/Docker%20Assignment/docker.mp4)
 
 
 
