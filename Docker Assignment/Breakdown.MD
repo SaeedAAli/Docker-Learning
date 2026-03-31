@@ -19,12 +19,12 @@ In this repistory, it contains hands on experience which consists of being able 
        * /: Displays a welcome message.
        * /count: Increments and displays a visit count stored in Redis
 
-** 2 Redis Database: **
-       *  Use Redis as a key-value store to keep track of the visit count
+(2 Redis Database: 
+      Use Redis as a key-value store to keep track of the visit count
 
-** Dockerize Both Services
-       * Create Dockerfiles for both the Flask app and Redis
-       * Use Docker Compose to manage the multi container application
+3) Dockerize Both Services
+        Create Dockerfiles for both the Flask app and Redis
+        Use Docker Compose to manage the multi container application
 
 ## Code to Combine both containers into one
 
