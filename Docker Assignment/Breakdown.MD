@@ -22,9 +22,11 @@ In this repistory, it contains hands on experience which consists of being able 
 (2 Redis Database: 
       Use Redis as a key-value store to keep track of the visit count
 
-3) Dockerize Both Services
-        Create Dockerfiles for both the Flask app and Redis
-        Use Docker Compose to manage the multi container application
+
+** 1) Dockerize Both Services: **
+   *  ->
+       * Create Dockerfiles for both the Flask app and Redis
+       * Use Docker Compose to manage the multi container application
 
 ## Code to Combine both containers into one
 
