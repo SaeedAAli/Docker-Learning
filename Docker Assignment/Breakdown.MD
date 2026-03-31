@@ -16,6 +16,6 @@ In this repistory, it contains hands on experience which consists of being able 
 
 The Flask app has two routes
 
-| Left columns  | Right columns |
+1 |Flask Web Application | 
 | ------------- |:-------------:|
-| / : Dispplays a welcome message      | /count : Increments and displays a visit count stored in the redis |
+| / : Dispplays a welcome message  | /count : Increments and displays a visit count stored in the redis |
