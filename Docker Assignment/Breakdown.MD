@@ -16,7 +16,7 @@ In this repistory, it contains hands on experience which consists of being able 
 
 ** 1) Flask Web Application: **
    *  This app contain two routes within the URL
-          * /: Displays a welcome message.
+       * /: Displays a welcome message.
        * /count: Increments and displays a visit count stored in Redis
 
 ** 2 Redis Database: **
