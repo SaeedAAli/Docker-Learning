@@ -18,4 +18,5 @@ The Flask app has two routes
 
 1 |Flask Web Application | 
 | ------------- |:-------------:|
-| / : Dispplays a welcome message  | /count : Increments and displays a visit count stored in the redis |
+| / : Dispplays a welcome message
+| /count : Increment and displays a visit count stored in Redis
