@@ -35,8 +35,6 @@ Note: You have to use Docker-compose.yml in order to do this
 docker compose up --build
 ```
 
-## Results
-
 
 ## 🎬 Demo Video
 
